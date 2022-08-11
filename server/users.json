@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "11",
+      "name": "Alex",
+      "password": "1"
+    },
+    {
+      "id": "22",
+      "name": "Denis",
+      "password": "1"
+    }
+  ],
+  "todos": [
+    {
+      "id": "l2pv35n7",
+      "title": "2",
+      "userId": "11",
+      "completed": false,
+      "subList": [],
+      "parentId": null
+    },
+    {
+      "id": "l6oqrjo7",
+      "title": "1",
+      "userId": "22",
+      "completed": false,
+      "subList": [],
+      "parentId": null
+    },
+    {
+      "id": "l6oqrlf8",
+      "title": "2",
+      "userId": "22",
+      "completed": false,
+      "subList": [],
+      "parentId": null
+    },
+    {
+      "id": "l6oqrn4h",
+      "title": "3",
+      "userId": "22",
+      "completed": false,
+      "subList": [],
+      "parentId": null
+    }
+  ]
+}
